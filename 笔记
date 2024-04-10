@@ -1,0 +1,7 @@
+''/0/null/undefined/NaN 转换为 Boolean 都为 false
+对象属性的删除：delete xx.xxx
+对象属性的查询：xx.xxx 或 xx['xxx']
+null是对象数据类型，是一个空对象
+获取第三个li标签：document.querySelector('.xxx li:nth-child(3)')
+禁止点击按钮：<button disabled=true />  button.disabled(true) 
+input框选中：<input type="checkbox" />  input.checked=true
